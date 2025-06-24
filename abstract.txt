@@ -1,0 +1,8 @@
+Example TLE9893_2QKW62S_ADC1_POTI_SWTRG
+
+The current Poti voltage setting is read with the channel 0 of ADC1 via   
+the input pin P2.6. The measured voltage range is divided into 10 intervals    
+0-500mV, 500mV-1V,..., 4.5V-5V which are displayed on 9 LEDs. The ADC1    
+sequence is triggered by software.                                        
+Devices with 48 pins are limited to 6 LEDs and measurement is done        
+between 0 and 3V only.                                                    

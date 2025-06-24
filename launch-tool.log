@@ -1,0 +1,735 @@
+2024/11/19 21:26:28 Started Launch Tool 2.0.6
+2024/11/19 21:26:28 Started as PID 7988
+2024/11/19 21:26:28 Started with arguments []string{"C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\Lukes\\OneDrive\\Documents\\boards\\infineon\\tle988x_tle989x_evalboard\\ADC1_POTI_SWTRG_EXAMPLE_TLE989X\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2024/11/19 21:26:28 Started in directory C:\Users\Lukes\OneDrive\Documents\boards\infineon\tle988x_tle989x_evalboard\ADC1_POTI_SWTRG_EXAMPLE_TLE989X
+2024/11/19 21:26:28 Reading tool data
+2024/11/19 21:26:28 Reading "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2024/11/19 21:26:28 Validating tool data
+2024/11/19 21:26:28 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2024/11/19 21:26:28 Starting "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Lukes\\OneDrive\\Documents\\boards\\infineon\\tle988x_tle989x_evalboard\\ADC1_POTI_SWTRG_EXAMPLE_TLE989X\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2024/11/19 21:26:28 Starting "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2024/11/19 21:26:28 Started "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 20152
+2024/11/19 21:26:28 Starting Launcher Service
+2024/11/19 21:26:28 Starting "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/11/19 21:26:28 Starting "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Infineon\\LauncherService"
+2024/11/19 21:26:28 Started "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21988
+2024/11/21 17:28:24 Started Launch Tool 2.0.6
+2024/11/21 17:28:24 Started as PID 1992
+2024/11/21 17:28:24 Started with arguments []string{"C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\Lukes\\OneDrive\\Documents\\boards\\infineon\\tle988x_tle989x_evalboard\\ADC1_POTI_SWTRG_EXAMPLE_TLE989X\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2024/11/21 17:28:24 Started in directory C:\Users\Lukes\OneDrive\Documents\boards\infineon\tle988x_tle989x_evalboard\ADC1_POTI_SWTRG_EXAMPLE_TLE989X
+2024/11/21 17:28:24 Reading tool data
+2024/11/21 17:28:24 Reading "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2024/11/21 17:28:24 Validating tool data
+2024/11/21 17:28:24 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2024/11/21 17:28:24 Starting "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Lukes\\OneDrive\\Documents\\boards\\infineon\\tle988x_tle989x_evalboard\\ADC1_POTI_SWTRG_EXAMPLE_TLE989X\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2024/11/21 17:28:24 Starting "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2024/11/21 17:28:24 Started "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 13840
+2024/11/21 17:28:24 Starting Launcher Service
+2024/11/21 17:28:24 Starting "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/11/21 17:28:24 Starting "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Infineon\\LauncherService"
+2024/11/21 17:28:24 Started "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 7068
+2024/11/21 17:47:04 Started Launch Tool 2.0.6
+2024/11/21 17:47:04 Started as PID 12488
+2024/11/21 17:47:04 Started with arguments []string{"C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\Lukes\\OneDrive\\Documents\\boards\\infineon\\tle988x_tle989x_evalboard\\ADC1_POTI_SWTRG_EXAMPLE_TLE989X\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2024/11/21 17:47:04 Started in directory C:\Users\Lukes\OneDrive\Documents\boards\infineon\tle988x_tle989x_evalboard\ADC1_POTI_SWTRG_EXAMPLE_TLE989X
+2024/11/21 17:47:04 Reading tool data
+2024/11/21 17:47:04 Reading "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2024/11/21 17:47:04 Validating tool data
+2024/11/21 17:47:04 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2024/11/21 17:47:04 Starting "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Lukes\\OneDrive\\Documents\\boards\\infineon\\tle988x_tle989x_evalboard\\ADC1_POTI_SWTRG_EXAMPLE_TLE989X\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2024/11/21 17:47:04 Starting "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2024/11/21 17:47:04 Started "C:\\Users\\Lukes\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 7380
+2024/11/21 17:47:04 Starting Launcher Service
+2024/11/21 17:47:04 Starting "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/11/21 17:47:04 Starting "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Infineon\\LauncherService"
+2024/11/21 17:47:04 Started "C:\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 7952
+2025/02/13 02:23:01 Started Launch Tool 2.0.6
+2025/02/13 02:23:01 Started as PID 23960
+2025/02/13 02:23:01 Started with arguments []string{"C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\mason\\OneDrive\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/13 02:23:01 Started in directory C:\Users\mason\OneDrive\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/02/13 02:23:01 Reading tool data
+2025/02/13 02:23:01 Reading "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/13 02:23:01 Validating tool data
+2025/02/13 02:23:01 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/13 02:23:01 Starting "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\mason\\OneDrive\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/13 02:23:01 Starting "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/13 02:23:01 Started "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 18972
+2025/02/13 02:23:01 Starting Launcher Service
+2025/02/13 02:23:01 Starting "C:\\Users\\mason\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/13 02:23:01 Starting "C:\\Users\\mason\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\mason\\Infineon\\LauncherService"
+2025/02/13 02:23:01 Started "C:\\Users\\mason\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28352
+2025/02/13 16:20:06 Started Launch Tool 2.0.6
+2025/02/13 16:20:06 Started as PID 24936
+2025/02/13 16:20:06 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_mason\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/13 16:20:06 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_mason\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/13 16:20:06 Reading tool data
+2025/02/13 16:20:06 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/13 16:20:06 Validating tool data
+2025/02/13 16:20:06 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/13 16:20:06 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_mason\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/13 16:20:06 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/13 16:20:06 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 26504
+2025/02/13 16:20:06 Starting Launcher Service
+2025/02/13 16:20:06 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/13 16:20:06 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/13 16:20:07 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 29200
+2025/02/16 19:38:41 Started Launch Tool 2.0.6
+2025/02/16 19:38:41 Started as PID 22188
+2025/02/16 19:38:41 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 19:38:41 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/16 19:38:41 Reading tool data
+2025/02/16 19:38:41 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/16 19:38:41 Validating tool data
+2025/02/16 19:38:41 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/16 19:38:41 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 19:38:41 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/16 19:38:41 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 20664
+2025/02/16 19:38:41 Starting Launcher Service
+2025/02/16 19:38:41 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/16 19:38:41 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/16 19:38:41 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 17500
+2025/02/16 23:51:57 Started Launch Tool 2.0.6
+2025/02/16 23:51:57 Started as PID 2032
+2025/02/16 23:51:57 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 23:51:57 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/16 23:51:57 Reading tool data
+2025/02/16 23:51:57 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/16 23:51:57 Validating tool data
+2025/02/16 23:51:57 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/16 23:51:57 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 23:51:57 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/16 23:51:57 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 20400
+2025/02/16 23:51:57 Starting Launcher Service
+2025/02/16 23:51:57 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/16 23:51:57 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/16 23:51:57 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21180
+2025/02/16 23:52:45 Started Launch Tool 2.0.6
+2025/02/16 23:52:45 Started as PID 19948
+2025/02/16 23:52:45 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 23:52:45 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/16 23:52:45 Reading tool data
+2025/02/16 23:52:45 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/16 23:52:45 Validating tool data
+2025/02/16 23:52:45 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/16 23:52:45 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 23:52:45 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/16 23:52:45 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 24344
+2025/02/16 23:52:45 Starting Launcher Service
+2025/02/16 23:52:45 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/16 23:52:45 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/16 23:52:45 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25344
+2025/02/16 23:55:39 Started Launch Tool 2.0.6
+2025/02/16 23:55:39 Started as PID 17696
+2025/02/16 23:55:39 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 23:55:39 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/16 23:55:39 Reading tool data
+2025/02/16 23:55:39 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/16 23:55:39 Validating tool data
+2025/02/16 23:55:39 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/16 23:55:39 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/16 23:55:39 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/16 23:55:39 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 16960
+2025/02/16 23:55:39 Starting Launcher Service
+2025/02/16 23:55:39 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/16 23:55:39 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/16 23:55:39 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 14072
+2025/02/17 16:31:34 Started Launch Tool 2.0.6
+2025/02/17 16:31:34 Started as PID 1596
+2025/02/17 16:31:34 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:31:34 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 16:31:34 Reading tool data
+2025/02/17 16:31:34 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 16:31:34 Validating tool data
+2025/02/17 16:31:34 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 16:31:34 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:31:34 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 16:31:35 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 20328
+2025/02/17 16:31:35 Starting Launcher Service
+2025/02/17 16:31:35 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 16:31:35 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 16:31:35 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 14808
+2025/02/17 16:34:07 Started Launch Tool 2.0.6
+2025/02/17 16:34:07 Started as PID 20676
+2025/02/17 16:34:07 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:34:07 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 16:34:07 Reading tool data
+2025/02/17 16:34:07 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 16:34:07 Validating tool data
+2025/02/17 16:34:07 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 16:34:07 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:34:07 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 16:34:07 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 22004
+2025/02/17 16:34:07 Starting Launcher Service
+2025/02/17 16:34:07 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 16:34:07 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 16:34:07 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 24388
+2025/02/17 16:42:51 Started Launch Tool 2.0.6
+2025/02/17 16:42:51 Started as PID 20420
+2025/02/17 16:42:51 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:42:51 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 16:42:51 Reading tool data
+2025/02/17 16:42:51 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 16:42:51 Validating tool data
+2025/02/17 16:42:51 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 16:42:51 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:42:51 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 16:42:51 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 24584
+2025/02/17 16:42:51 Starting Launcher Service
+2025/02/17 16:42:51 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 16:42:51 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 16:42:51 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25176
+2025/02/17 16:57:51 Started Launch Tool 2.0.6
+2025/02/17 16:57:51 Started as PID 16552
+2025/02/17 16:57:51 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:57:51 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 16:57:51 Reading tool data
+2025/02/17 16:57:51 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 16:57:51 Validating tool data
+2025/02/17 16:57:51 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 16:57:51 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 16:57:51 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 16:57:51 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 19700
+2025/02/17 16:57:51 Starting Launcher Service
+2025/02/17 16:57:51 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 16:57:51 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 16:57:51 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19624
+2025/02/17 17:14:31 Started Launch Tool 2.0.6
+2025/02/17 17:14:31 Started as PID 19860
+2025/02/17 17:14:31 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 17:14:31 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 17:14:31 Reading tool data
+2025/02/17 17:14:31 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 17:14:31 Validating tool data
+2025/02/17 17:14:31 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 17:14:31 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 17:14:31 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 17:14:31 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 21760
+2025/02/17 17:14:31 Starting Launcher Service
+2025/02/17 17:14:31 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 17:14:31 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 17:14:31 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26456
+2025/02/17 17:15:22 Started Launch Tool 2.0.6
+2025/02/17 17:15:22 Started as PID 9780
+2025/02/17 17:15:22 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 17:15:22 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 17:15:22 Reading tool data
+2025/02/17 17:15:22 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 17:15:22 Validating tool data
+2025/02/17 17:15:22 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 17:15:22 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 17:15:22 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 17:15:22 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 9816
+2025/02/17 17:15:22 Starting Launcher Service
+2025/02/17 17:15:22 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 17:15:22 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 17:15:22 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21840
+2025/02/17 17:18:27 Started Launch Tool 2.0.6
+2025/02/17 17:18:27 Started as PID 19232
+2025/02/17 17:18:27 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 17:18:27 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 17:18:27 Reading tool data
+2025/02/17 17:18:27 Reading "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/17 17:18:27 Validating tool data
+2025/02/17 17:18:27 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/17 17:18:27 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 17:18:27 Starting "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/17 17:18:27 Started "C:\\Users\\13364\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 26176
+2025/02/17 17:18:27 Starting Launcher Service
+2025/02/17 17:18:27 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 17:18:27 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 17:18:27 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 10168
+2025/02/17 18:03:30 Started Launch Tool 2.0.6
+2025/02/17 18:03:30 Started as PID 15240
+2025/02/17 18:03:30 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 18:03:30 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 18:03:30 Reading tool data
+2025/02/17 18:03:30 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/17 18:03:30 Validating tool data
+2025/02/17 18:03:30 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/17 18:03:30 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 18:03:30 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/17 18:03:30 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 13784
+2025/02/17 18:03:30 Starting Launcher Service
+2025/02/17 18:03:30 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 18:03:30 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 18:03:30 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 22584
+2025/02/17 18:22:14 Started Launch Tool 2.0.6
+2025/02/17 18:22:14 Started as PID 1752
+2025/02/17 18:22:14 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 18:22:14 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/17 18:22:14 Reading tool data
+2025/02/17 18:22:14 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/17 18:22:14 Validating tool data
+2025/02/17 18:22:14 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/17 18:22:14 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/17 18:22:14 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/17 18:22:14 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 24748
+2025/02/17 18:22:14 Starting Launcher Service
+2025/02/17 18:22:14 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/17 18:22:14 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/17 18:22:14 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 1756
+2025/02/18 15:37:34 Started Launch Tool 2.0.6
+2025/02/18 15:37:34 Started as PID 20472
+2025/02/18 15:37:34 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 15:37:34 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/18 15:37:34 Reading tool data
+2025/02/18 15:37:34 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/18 15:37:34 Validating tool data
+2025/02/18 15:37:34 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/18 15:37:34 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 15:37:34 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/18 15:37:35 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 6800
+2025/02/18 15:37:35 Starting Launcher Service
+2025/02/18 15:37:35 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/18 15:37:35 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/18 15:37:35 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 22932
+2025/02/18 15:57:27 Started Launch Tool 2.0.6
+2025/02/18 15:57:27 Started as PID 9432
+2025/02/18 15:57:27 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 15:57:27 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/18 15:57:27 Reading tool data
+2025/02/18 15:57:27 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/18 15:57:27 Validating tool data
+2025/02/18 15:57:27 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/18 15:57:27 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 15:57:27 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/18 15:57:27 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 22524
+2025/02/18 15:57:27 Starting Launcher Service
+2025/02/18 15:57:27 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/18 15:57:27 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/18 15:57:27 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 13708
+2025/02/18 16:23:48 Started Launch Tool 2.0.6
+2025/02/18 16:23:48 Started as PID 21812
+2025/02/18 16:23:48 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 16:23:48 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/18 16:23:48 Reading tool data
+2025/02/18 16:23:48 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/18 16:23:48 Validating tool data
+2025/02/18 16:23:48 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/18 16:23:48 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 16:23:48 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/18 16:23:48 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 14512
+2025/02/18 16:23:48 Starting Launcher Service
+2025/02/18 16:23:48 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/18 16:23:48 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/18 16:23:48 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 18932
+2025/02/18 17:35:35 Started Launch Tool 2.0.6
+2025/02/18 17:35:35 Started as PID 23980
+2025/02/18 17:35:35 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 17:35:35 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier-dev_tanishq\13-Three-Phase-Active-Rectifier-dev_mason
+2025/02/18 17:35:35 Reading tool data
+2025/02/18 17:35:35 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/18 17:35:35 Validating tool data
+2025/02/18 17:35:35 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/18 17:35:35 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier-dev_tanishq\\13-Three-Phase-Active-Rectifier-dev_mason\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/18 17:35:35 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/18 17:35:35 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 17768
+2025/02/18 17:35:35 Starting Launcher Service
+2025/02/18 17:35:35 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/18 17:35:35 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/18 17:35:35 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19664
+2025/02/19 02:47:01 Started Launch Tool 2.0.6
+2025/02/19 02:47:01 Started as PID 9988
+2025/02/19 02:47:01 Started with arguments []string{"C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\launch-tool.exe", "C:\\Users\\mason\\OneDrive\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/19 02:47:01 Started in directory C:\Users\mason\OneDrive\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/02/19 02:47:01 Reading tool data
+2025/02/19 02:47:01 Reading "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\resources\\tool-details.json"
+2025/02/19 02:47:01 Validating tool data
+2025/02/19 02:47:01 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"MOTIX� MCU Configuration Wizard", Version:"2.7.4.202406281521", Path:"C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe"}
+2025/02/19 02:47:01 Starting "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\mason\\OneDrive\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/19 02:47:01 Starting "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" in directory "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521"
+2025/02/19 02:47:01 Started "C:\\Users\\mason\\Infineon\\Tools\\MOTIX-MCU-Config-Wizard\\2.7.4.202406281521\\/ConfigWizard.exe" as PID 17564
+2025/02/19 02:47:01 Starting Launcher Service
+2025/02/19 02:47:01 Starting "C:\\Users\\mason\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.4.202406281521", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/19 02:47:01 Starting "C:\\Users\\mason\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\mason\\Infineon\\LauncherService"
+2025/02/19 02:47:01 Started "C:\\Users\\mason\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19396
+2025/02/20 19:10:36 Started Launch Tool 2.0.6
+2025/02/20 19:10:36 Started as PID 4952
+2025/02/20 19:10:36 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/20 19:10:36 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/02/20 19:10:36 Reading tool data
+2025/02/20 19:10:36 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/02/20 19:10:36 Validating tool data
+2025/02/20 19:10:36 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/02/20 19:10:36 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/02/20 19:10:36 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/02/20 19:10:36 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 9684
+2025/02/20 19:10:36 Starting Launcher Service
+2025/02/20 19:10:36 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/02/20 19:10:36 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/02/20 19:10:37 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 12564
+2025/03/05 18:24:00 Started Launch Tool 2.0.6
+2025/03/05 18:24:00 Started as PID 21908
+2025/03/05 18:24:00 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/05 18:24:00 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/05 18:24:00 Reading tool data
+2025/03/05 18:24:00 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/05 18:24:00 Validating tool data
+2025/03/05 18:24:00 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/05 18:24:00 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/05 18:24:00 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/05 18:24:00 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 21108
+2025/03/05 18:24:00 Starting Launcher Service
+2025/03/05 18:24:00 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/05 18:24:00 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/05 18:24:01 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 22660
+2025/03/06 19:06:04 Started Launch Tool 2.0.6
+2025/03/06 19:06:04 Started as PID 23304
+2025/03/06 19:06:04 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/06 19:06:04 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/06 19:06:04 Reading tool data
+2025/03/06 19:06:04 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/06 19:06:04 Validating tool data
+2025/03/06 19:06:04 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/06 19:06:04 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/06 19:06:04 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/06 19:06:04 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 23472
+2025/03/06 19:06:04 Starting Launcher Service
+2025/03/06 19:06:04 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/06 19:06:04 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/06 19:06:04 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 24452
+2025/03/14 02:13:09 Started Launch Tool 2.0.6
+2025/03/14 02:13:09 Started as PID 5676
+2025/03/14 02:13:09 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/14 02:13:09 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/14 02:13:09 Reading tool data
+2025/03/14 02:13:09 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/14 02:13:09 Validating tool data
+2025/03/14 02:13:09 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/14 02:13:09 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/14 02:13:09 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/14 02:13:09 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 9324
+2025/03/14 02:13:09 Starting Launcher Service
+2025/03/14 02:13:09 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/14 02:13:09 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/14 02:13:10 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 20096
+2025/03/14 03:19:28 Started Launch Tool 2.0.6
+2025/03/14 03:19:28 Started as PID 24556
+2025/03/14 03:19:28 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/14 03:19:28 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/14 03:19:28 Reading tool data
+2025/03/14 03:19:28 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/14 03:19:28 Validating tool data
+2025/03/14 03:19:28 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/14 03:19:28 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/14 03:19:28 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/14 03:19:28 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 10056
+2025/03/14 03:19:28 Starting Launcher Service
+2025/03/14 03:19:28 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/14 03:19:28 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/14 03:19:28 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 15860
+2025/03/17 16:44:03 Started Launch Tool 2.0.6
+2025/03/17 16:44:03 Started as PID 3620
+2025/03/17 16:44:03 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 16:44:03 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/17 16:44:03 Reading tool data
+2025/03/17 16:44:03 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/17 16:44:03 Validating tool data
+2025/03/17 16:44:03 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/17 16:44:03 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 16:44:03 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/17 16:44:03 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 7628
+2025/03/17 16:44:03 Starting Launcher Service
+2025/03/17 16:44:03 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/17 16:44:03 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/17 16:44:04 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 14388
+2025/03/17 17:06:30 Started Launch Tool 2.0.6
+2025/03/17 17:06:30 Started as PID 3504
+2025/03/17 17:06:30 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 17:06:30 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/17 17:06:30 Reading tool data
+2025/03/17 17:06:30 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/17 17:06:30 Validating tool data
+2025/03/17 17:06:30 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/17 17:06:30 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 17:06:30 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/17 17:06:30 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 11576
+2025/03/17 17:06:30 Starting Launcher Service
+2025/03/17 17:06:30 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/17 17:06:30 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/17 17:06:30 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 13916
+2025/03/17 17:43:17 Started Launch Tool 2.0.6
+2025/03/17 17:43:17 Started as PID 14592
+2025/03/17 17:43:17 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 17:43:17 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/17 17:43:17 Reading tool data
+2025/03/17 17:43:17 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/17 17:43:17 Validating tool data
+2025/03/17 17:43:17 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/17 17:43:17 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 17:43:17 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/17 17:43:17 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 3108
+2025/03/17 17:43:17 Starting Launcher Service
+2025/03/17 17:43:18 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/17 17:43:18 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/17 17:43:18 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 1124
+2025/03/17 19:34:43 Started Launch Tool 2.0.6
+2025/03/17 19:34:43 Started as PID 22096
+2025/03/17 19:34:43 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 19:34:43 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/17 19:34:43 Reading tool data
+2025/03/17 19:34:43 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/17 19:34:43 Validating tool data
+2025/03/17 19:34:43 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/17 19:34:43 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 19:34:43 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/17 19:34:43 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 22976
+2025/03/17 19:34:43 Starting Launcher Service
+2025/03/17 19:34:43 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/17 19:34:43 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/17 19:34:43 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 420
+2025/03/17 19:36:13 Started Launch Tool 2.0.6
+2025/03/17 19:36:13 Started as PID 21300
+2025/03/17 19:36:13 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 19:36:13 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/17 19:36:13 Reading tool data
+2025/03/17 19:36:13 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/17 19:36:13 Validating tool data
+2025/03/17 19:36:13 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/17 19:36:13 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/17 19:36:13 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/17 19:36:13 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 20540
+2025/03/17 19:36:13 Starting Launcher Service
+2025/03/17 19:36:13 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/17 19:36:13 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/17 19:36:13 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 1424
+2025/03/18 16:52:53 Started Launch Tool 2.0.6
+2025/03/18 16:52:53 Started as PID 6640
+2025/03/18 16:52:53 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/18 16:52:53 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/18 16:52:53 Reading tool data
+2025/03/18 16:52:53 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/18 16:52:53 Validating tool data
+2025/03/18 16:52:53 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/18 16:52:53 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/18 16:52:53 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/18 16:52:53 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 10636
+2025/03/18 16:52:53 Starting Launcher Service
+2025/03/18 16:52:53 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/18 16:52:53 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/18 16:52:53 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 11804
+2025/03/19 17:51:54 Started Launch Tool 2.0.6
+2025/03/19 17:51:54 Started as PID 20108
+2025/03/19 17:51:54 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/19 17:51:54 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/19 17:51:54 Reading tool data
+2025/03/19 17:51:54 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/19 17:51:54 Validating tool data
+2025/03/19 17:51:54 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/19 17:51:54 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/19 17:51:54 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/19 17:51:54 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 29428
+2025/03/19 17:51:54 Starting Launcher Service
+2025/03/19 17:51:54 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/19 17:51:54 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/19 17:51:54 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21132
+2025/03/19 18:05:17 Started Launch Tool 2.0.6
+2025/03/19 18:05:17 Started as PID 3356
+2025/03/19 18:05:17 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/19 18:05:17 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/19 18:05:17 Reading tool data
+2025/03/19 18:05:17 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/19 18:05:17 Validating tool data
+2025/03/19 18:05:17 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/19 18:05:17 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/19 18:05:17 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/19 18:05:17 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 21492
+2025/03/19 18:05:17 Starting Launcher Service
+2025/03/19 18:05:17 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/19 18:05:17 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/19 18:05:17 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 1928
+2025/03/23 19:18:21 Started Launch Tool 2.0.6
+2025/03/23 19:18:21 Started as PID 22272
+2025/03/23 19:18:21 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/23 19:18:21 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/23 19:18:21 Reading tool data
+2025/03/23 19:18:21 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/23 19:18:21 Validating tool data
+2025/03/23 19:18:21 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/23 19:18:21 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/23 19:18:21 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/23 19:18:21 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 19152
+2025/03/23 19:18:21 Starting Launcher Service
+2025/03/23 19:18:22 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/23 19:18:22 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/23 19:18:22 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25580
+2025/03/23 21:29:26 Started Launch Tool 2.0.6
+2025/03/23 21:29:26 Started as PID 26096
+2025/03/23 21:29:26 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/23 21:29:26 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/23 21:29:26 Reading tool data
+2025/03/23 21:29:26 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/23 21:29:26 Validating tool data
+2025/03/23 21:29:26 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/23 21:29:26 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/23 21:29:26 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/23 21:29:26 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 27028
+2025/03/23 21:29:26 Starting Launcher Service
+2025/03/23 21:29:26 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/23 21:29:26 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/23 21:29:27 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 6224
+2025/03/24 00:27:13 Started Launch Tool 2.0.6
+2025/03/24 00:27:13 Started as PID 29596
+2025/03/24 00:27:13 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/24 00:27:13 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/24 00:27:13 Reading tool data
+2025/03/24 00:27:13 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/24 00:27:13 Validating tool data
+2025/03/24 00:27:13 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/24 00:27:13 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/24 00:27:13 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/24 00:27:13 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 30744
+2025/03/24 00:27:13 Starting Launcher Service
+2025/03/24 00:27:13 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/24 00:27:13 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/24 00:27:13 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 29448
+2025/03/24 14:47:38 Started Launch Tool 2.0.6
+2025/03/24 14:47:38 Started as PID 19012
+2025/03/24 14:47:38 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/24 14:47:38 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/24 14:47:38 Reading tool data
+2025/03/24 14:47:38 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/24 14:47:38 Validating tool data
+2025/03/24 14:47:38 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/24 14:47:38 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/24 14:47:38 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/24 14:47:38 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 10776
+2025/03/24 14:47:38 Starting Launcher Service
+2025/03/24 14:47:38 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/24 14:47:38 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/24 14:47:38 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21600
+2025/03/24 15:54:30 Started Launch Tool 2.0.6
+2025/03/24 15:54:30 Started as PID 20796
+2025/03/24 15:54:30 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/24 15:54:30 Started in directory C:\Users\13364\Documents\GitHub\13-Three-Phase-Active-Rectifier
+2025/03/24 15:54:30 Reading tool data
+2025/03/24 15:54:30 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/03/24 15:54:30 Validating tool data
+2025/03/24 15:54:30 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/03/24 15:54:30 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Documents\\GitHub\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/03/24 15:54:30 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/03/24 15:54:30 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 21828
+2025/03/24 15:54:30 Starting Launcher Service
+2025/03/24 15:54:30 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/03/24 15:54:30 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/03/24 15:54:30 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19704
+2025/04/08 17:52:04 Started Launch Tool 2.0.6
+2025/04/08 17:52:04 Started as PID 32700
+2025/04/08 17:52:04 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/08 17:52:04 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/08 17:52:04 Reading tool data
+2025/04/08 17:52:04 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/08 17:52:04 Validating tool data
+2025/04/08 17:52:04 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/08 17:52:04 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/08 17:52:04 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/08 17:52:04 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 19120
+2025/04/08 17:52:04 Starting Launcher Service
+2025/04/08 17:52:04 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/08 17:52:04 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/08 17:52:04 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27528
+2025/04/08 17:57:00 Started Launch Tool 2.0.6
+2025/04/08 17:57:00 Started as PID 30664
+2025/04/08 17:57:00 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/08 17:57:00 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/08 17:57:00 Reading tool data
+2025/04/08 17:57:00 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/08 17:57:00 Validating tool data
+2025/04/08 17:57:00 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/08 17:57:00 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/08 17:57:00 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/08 17:57:00 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 32484
+2025/04/08 17:57:00 Starting Launcher Service
+2025/04/08 17:57:00 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/08 17:57:00 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/08 17:57:00 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 32664
+2025/04/09 18:29:02 Started Launch Tool 2.0.6
+2025/04/09 18:29:02 Started as PID 20692
+2025/04/09 18:29:02 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/09 18:29:02 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/09 18:29:02 Reading tool data
+2025/04/09 18:29:02 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/09 18:29:02 Validating tool data
+2025/04/09 18:29:02 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/09 18:29:02 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/09 18:29:02 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/09 18:29:02 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 9888
+2025/04/09 18:29:02 Starting Launcher Service
+2025/04/09 18:29:02 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/09 18:29:02 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/09 18:29:02 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 12824
+2025/04/10 19:21:08 Started Launch Tool 2.0.6
+2025/04/10 19:21:08 Started as PID 27852
+2025/04/10 19:21:08 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:21:08 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/10 19:21:08 Reading tool data
+2025/04/10 19:21:08 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/10 19:21:08 Validating tool data
+2025/04/10 19:21:08 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/10 19:21:08 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:21:08 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/10 19:21:08 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 21196
+2025/04/10 19:21:08 Starting Launcher Service
+2025/04/10 19:21:08 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/10 19:21:08 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/10 19:21:09 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26980
+2025/04/10 19:27:08 Started Launch Tool 2.0.6
+2025/04/10 19:27:08 Started as PID 23372
+2025/04/10 19:27:08 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:27:08 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/10 19:27:08 Reading tool data
+2025/04/10 19:27:08 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/10 19:27:08 Validating tool data
+2025/04/10 19:27:08 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/10 19:27:08 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:27:08 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/10 19:27:08 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 14924
+2025/04/10 19:27:08 Starting Launcher Service
+2025/04/10 19:27:08 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/10 19:27:08 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/10 19:27:08 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 15080
+2025/04/10 19:40:11 Started Launch Tool 2.0.6
+2025/04/10 19:40:11 Started as PID 30296
+2025/04/10 19:40:11 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:40:11 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/10 19:40:11 Reading tool data
+2025/04/10 19:40:11 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/10 19:40:11 Validating tool data
+2025/04/10 19:40:11 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/10 19:40:11 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:40:11 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/10 19:40:11 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 31712
+2025/04/10 19:40:11 Starting Launcher Service
+2025/04/10 19:40:11 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/10 19:40:11 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/10 19:40:11 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28000
+2025/04/10 19:45:24 Started Launch Tool 2.0.6
+2025/04/10 19:45:24 Started as PID 20640
+2025/04/10 19:45:24 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:45:24 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/10 19:45:24 Reading tool data
+2025/04/10 19:45:24 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/10 19:45:24 Validating tool data
+2025/04/10 19:45:24 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/10 19:45:24 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/10 19:45:24 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/10 19:45:24 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 25716
+2025/04/10 19:45:24 Starting Launcher Service
+2025/04/10 19:45:24 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/10 19:45:24 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/10 19:45:24 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26788
+2025/04/11 01:26:03 Started Launch Tool 2.0.6
+2025/04/11 01:26:03 Started as PID 23392
+2025/04/11 01:26:03 Started with arguments []string{"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\launch-tool.exe", "C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/11 01:26:03 Started in directory C:\Users\13364\Desktop\Tanishq Laptop reset data\ncsu docs\Semesters\Sem 8 2025 Spring\ECE 485\13-Three-Phase-Active-Rectifier
+2025/04/11 01:26:03 Reading tool data
+2025/04/11 01:26:03 Reading "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\resources\\tool-details.json"
+2025/04/11 01:26:03 Validating tool data
+2025/04/11 01:26:03 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.5.202412051614", Path:"C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe"}
+2025/04/11 01:26:03 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\13364\\Desktop\\Tanishq Laptop reset data\\ncsu docs\\Semesters\\Sem 8 2025 Spring\\ECE 485\\13-Three-Phase-Active-Rectifier\\RTE\\Device\\TLE9893_2QKW62S\\config.icwp", "-ddevice=TLE9893_2QKW62S"}
+2025/04/11 01:26:03 Starting "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" in directory "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614"
+2025/04/11 01:26:03 Started "C:\\Users\\13364\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.5.202412051614\\/ConfigWizard.exe" as PID 18720
+2025/04/11 01:26:03 Starting Launcher Service
+2025/04/11 01:26:03 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.5.202412051614", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2025/04/11 01:26:03 Starting "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\13364\\Infineon\\LauncherService"
+2025/04/11 01:26:03 Started "C:\\Users\\13364\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 23512
