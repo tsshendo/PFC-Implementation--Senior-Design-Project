@@ -4,20 +4,54 @@ This is the repository of the code that my team used for our capstone senior des
 Senior Design Project Overview:
 
 Situation:
-The Internal Combustion Enginer Car at the pack Motorsports Formula SAE Team was running in a charge deficit. Since the alternator is built into the engine, that part cannot change and it is not feasible to replace the battery for a bigger one due to packaging constraints. Due to this we looked into the rectifier that was bought off the shelf. The rectifier was roughly about 75-80% efficient. This was the bottlenenck that we were trying to resolve.
+The Internal Combustion Engine (ICE) car on the Pack Motorsports Formula SAE team was facing a persistent charge deficit. Since the alternator is integrated into the engine, it couldn’t be modified or replaced. Additionally, upgrading to a larger battery wasn’t possible due to space constraints. After some investigation, we identified that the off-the-shelf rectifier being used had an efficiency of only about 75–80%. This rectifier was the main bottleneck in the system's electrical performance.
 
-Task: 
-In order to clear out this bottleneck, we looked into better rectifiers but the more efficent ones available in the market were too expensive for our budget. In order to address this, we decided to design a custom 3 phase active rectifier to replace the existing passive one with a target of 97% efficiency and a power output of 400W.
+Task:
+Our goal was to address this inefficiency by replacing the passive rectifier with a more efficient solution. Commercial high-efficiency rectifiers were available, but they exceeded our limited budget. To work around this, we decided to design a custom three-phase active rectifier, targeting 97% efficiency and a power output of 400W.
 
-Action: 
-The design of our prodcut was broken down into 2 subsystems each consisting of 2 members. I primarily worked on power management and Power factor correction for the project. As a part of this, I sized components to minimize losses and completed a power budget for the components on the PCB. Besides this, I was assigned to work on the code for implementing power factor correction to maximize efficiency. The code was wrtiten in C and implemented on a Infineon TLE9893 Microcontroller.
+Action:
+The project was split into two main subsystems, with two team members working on each. My primary responsibilities were in the Power Management and Power Factor Correction (PFC) aspects of the system.
 
-The Implementation of the code was broken down into 2 seperate parts, Data Logging via CAN and input frequency detection. The other part which I worked on was interefacing with the input signals and using the input values to implement the power factor correction that would in turn generate a PWM Signal to control the triggering of the MOSFETs.
+My Contributions:
+1. Power Management:
+I developed a power budget to analyze and plan the energy consumption of components on our custom PCB.
 
-Background about power factor correction:  
-Power factor correction (PFC) refers to the process of improving the efficiency of electrical power usage in a system by aligning the phase of the current with the phase of the voltage, thereby increasing the power factor. In the context of a three-phase active rectifier, PFC is crucial for ensuring that the rectifier draws current in phase with the voltage, minimizing harmonic distortion and improving overall system efficiency.
+I selected and sized components (e.g., MOSFETs, capacitors, inductors) to minimize power losses, ensuring we could meet our efficiency target.
 
-To achieve this goal, I utilized the clarke tranform algorithm to convert the 3 variable system representing the 3 phases to a 2 variable in an orthogonal stationary frame. This then fed into a park transform which converted it to a 2 variable system in a orthogonal rotating reference frame. This conversion was done to get the direct and quadrature values of the current and detect the phase difference in between the Voltage and current.
+2. Power Factor Correction (PFC):
+I wrote embedded C code to implement the PFC algorithm on an Infineon TLE9893 microcontroller.
+
+The code was responsible for:
+
+Interfacing with input signals from the alternator.
+
+Measuring voltage and current to detect phase differences.
+
+Generating PWM signals to control MOSFET gate triggering for active rectification.
+
+Technical Breakdown of Power Factor Correction:
+Power Factor Correction (PFC) improves system efficiency by ensuring that the current drawn by the rectifier is in phase with the voltage. This minimizes wasted power and reduces harmonic distortion.
+
+To implement this, I used a transform-based control strategy common in motor control and power electronics:
+
+Signal Processing and Control Steps:
+Clarke Transform:
+Converts the three-phase current signals into two components (α and β) in a stationary orthogonal frame. This reduces the complexity of the system.
+
+Park Transform:
+Converts the α-β signals into direct (d) and quadrature (q) components in a rotating reference frame aligned with the voltage vector. This transformation helps in identifying the phase shift between voltage and current.
+
+PI Controllers:
+The d and q components were fed into two separate Proportional-Integral (PI) controllers, which calculated the error between desired and actual current values. This error represents the reactive (wasted) and real (useful) power components.
+
+Inverse Park and Clarke Transforms:
+The corrected d-q values were converted back to α-β and then to three-phase signals. This step generated the control reference for switching the MOSFETs.
+
+Space Vector PWM (SVPWM):
+The final three-phase signals were fed into an SVPWM algorithm, which generated precise PWM signals to drive the gates of the MOSFETs, controlling when and how the AC signals are rectified to DC.
+
+Outcome:
+The project culminated in a working prototype of a high-efficiency active rectifier that addressed the vehicle’s charge deficit while remaining cost-effective. Our design provided a practical and scalable solution that significantly improved energy recovery from the alternator without needing physical modifications to the engine or battery system.
 
 
 ![WhatsApp Image 2025-06-24 at 7 47 24 PM](https://github.com/user-attachments/assets/e758d77b-d057-4255-a760-56c023ac2b79)
